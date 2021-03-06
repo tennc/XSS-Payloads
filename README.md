@@ -1,5 +1,4 @@
 # XSS-Payloads
-
 # [XSS-Payloads Without Parentheses](https://github.com/RenwaX23/XSS-Payloads/blob/master/Without-Parentheses.md)
 List of XSS Vectors/Payloads i have been collecting since 2015 from different resources like websites,tweets,books..
 
